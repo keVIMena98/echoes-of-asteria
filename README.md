@@ -22,7 +22,7 @@ A turn-based terminal RPG written in Python. Explore the mystical land of Asteri
 ### Running the Game
 
 ```bash
-git clone https://github.com/yourusername/echoes-of-asteria.git
+git clone https://github.com/keVIMena98/echoes-of-asteria.git
 cd echoes-of-asteria
 python3 run_game.py
 ```
